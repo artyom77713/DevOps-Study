@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<!ELEMENT invite (Introduction, main, end)>
+	<!ELEMENT Introduction (to, date, place)>
+	<!ELEMENT to (#PCDATA)>
+	<!ELEMENT date (#PCDATA)>
+	<!ELEMENT place (#PCDATA)>
+	<!ELEMENT main (text, text2)>
+	<!ELEMENT text (#PCDATA)>
+	<!ELEMENT text2 (#PCDATA)>
+	<!ELEMENT end (from)>
+	<!ELEMENT from (#PCDATA)>

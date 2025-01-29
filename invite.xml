@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE invite SYSTEM "invite.xml">
+<invite>
+	<Introduction>
+		<to>Jane Doll</to>
+		<date>12.11.2024</date>
+		<place>City Barnaul</place>
+	<Introduction/>
+	<main>
+		<text>Dear Jane, I invite you to my birthday.</text>
+		<text2>I will be glad to see you!</text2>
+	</main>
+	<end>
+		<from>Cherepanov A.</from>
+	</end>
+</invite>
